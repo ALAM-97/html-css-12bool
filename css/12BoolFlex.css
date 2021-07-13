@@ -1,6 +1,6 @@
 /* FRAMEWORK M0BILE */
 
-@media screen and (min-width: 420px) {
+@media screen and (max-width: 420px) {
 
     .container {
     max-width: 420px;
