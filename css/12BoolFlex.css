@@ -1,7 +1,5 @@
 /* FRAMEWORK M0BILE */
 
-@media screen and (max-width: 420px) {
-
     .container {
     max-width: 420px;
     margin: 0 auto;
@@ -42,7 +40,7 @@
     .col-xs-12 {
         flex-basis: calc((100% / 12) * 12);
     }
-}
+
 /* OFFSET */
 
 .col-offset-1 {
